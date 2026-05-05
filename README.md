@@ -27,13 +27,13 @@ who want to understand the fundamentals of deploying **Large Language Models (LL
 
 This tutorial is broken down into the following sections:
 
-1. [Prerequisites](docs/prerequisites.md)
-2. [VM Setup & Folder Structure](docs/vm-setup.md)
-3. [Creating Application Files](docs/application-files.md)
-4. [Building the Container](docs/container.md)
-5. [Publishing & Deploying the Model](docs/deployment.md)
-6. [Testing & Verification](docs/testing.md)
-7. [Monitoring](docs/monitoring.md)
+1. [Prerequisites](docs/01-prerequisites.md)
+2. [VM Setup & Folder Structure](docs/02-vm_setup.md)
+3. [Creating Application Files](docs/03-application_setup.md)
+4. [Building the Container](docs/04-container_build.md)
+5. [Publishing & Deploying the Model](docs/05-deploy_model.md)
+6. [Testing & Verification](docs/06-verification.md)
+7. [Monitoring](docs/07-monitoring.md)
 
 ---
 
