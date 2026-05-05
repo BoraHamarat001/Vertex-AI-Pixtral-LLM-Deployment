@@ -27,7 +27,7 @@ who want to understand the fundamentals of deploying **Large Language Models (LL
 
 This tutorial is broken down into the following sections:
 
-1. [Prerequisites](docs/01-prerequisites.md)
+1. [Prerequisites](docs/01-prerequestes.md)
 2. [VM Setup & Folder Structure](docs/02-vm_setup.md)
 3. [Creating Application Files](docs/03-application_setup.md)
 4. [Building the Container](docs/04-container_build.md)
